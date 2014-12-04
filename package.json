@@ -1,0 +1,15 @@
+{
+  "name": "simple-linter",
+  "version": "0.1.0",
+  "main": "./lib/simple-linter-view",
+  "description": "Generic tool for creating code linters using `cmd-shift-8`(OSX) or `ctrl-shift-8`(Linux/Wndows).",
+  "repository": "https://github.com/induane/simple-linter",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "underscore-plus": "1.x",
+    "byline": "4.1.1"
+  }
+}
